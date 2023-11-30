@@ -1,4 +1,4 @@
-#直连
+#直连，用于ad.list广告规则拒绝之前，BLOCK.list之后
 # 东方财富
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,dfcfw.com
