@@ -1,0 +1,15 @@
+#直连
+# 东方财富
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,18.cn
+# 苹果测试是否网络正常域名
+DOMAIN,captive.apple.com
+# App手机一键登陆
+DOMAIN-SUFFIX,id6.me
+# 广汽本田
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-KEYWORD,sensorsdata.cn
+# 时间
+DOMAIN,time.asia.apple.com

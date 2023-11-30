@@ -1,0 +1,194 @@
+# apple
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN-SUFFIX,smoot.apple.com // Spotlight
+DOMAIN,amp-api.podcasts.apple.com // Podcasts
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,lookup-api.apple.com // Look Up
+DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# > Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
+# > News
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+# testflight
+DOMAIN,testflight.apple.com
+#
+DOMAIN-KEYWORD,cloudflare
+# news
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com.py
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,dueapp.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,time.com
+# google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
+# > Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
+# > Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+# > Dropbox
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-KEYWORD,dropbox
+# > 数字货币
+DOMAIN-SUFFIX,aex.com
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ftx.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,liquid.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,zb.com
+DOMAIN-KEYWORD,binance
+# > Line
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,naver.jp
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
+# > Meta
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,readyatdawn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,facebook
+# > Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-KEYWORD,reddit
+# 微软
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,bing.com
+DOMAIN-KEYWORD,hotmail
+DOMAIN-KEYWORD,.live.
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,msauth
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,outlook
+DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,windowsupdate
+# 亚马逊
+DOMAIN-KEYWORD,amazon
+# 维基
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,mbalib.com
+# github
+DOMAIN-SUFFIX,v2ex.com
+# whatsapp
+DOMAIN-KEYWORD,whatsapp
+# 音乐
+DOMAIN-KEYWORD,spotify
+# tiktok
+DOMAIN-KEYWORD,tiktok
+# paypal
+DOMAIN-KEYWORD,paypal
+#
+DOMAIN-KEYWORD,yandex
+# yahoo
+DOMAIN-KEYWORD,yahoo
+#
+DOMAIN-KEYWORD,wordpress
+#
+DOMAIN-KEYWORD,mozilla
+#
+DOMAIN-SUFFIX,jsdelivr.net
+#
+DOMAIN-KEYWORD,wiki
+DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,chinatimes.com
+#wps
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.com
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-KEYWORD,wps.com
+DOMAIN-KEYWORD,wps.net
+DOMAIN-KEYWORD,kingsoft
+#
+DOMAIN-KEYWORD,HongKong
+#
+DOMAIN-KEYWORD,quantumult
+#xshell
+DOMAIN-KEYWORD,.netsarang.
+#api
+DOMAIN-KEYWORD,.bianyuan.
+#
+DOMAIN-SUFFIX,coolshell.cn

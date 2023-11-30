@@ -1,0 +1,110 @@
+# 东财
+DOMAIN,emdcadvertise.eastmoney.com
+DOMAIN-SUFFIX,js4.eastmoney.com
+DOMAIN-SUFFIX,same.eastmoney.com
+DOMAIN-SUFFIX,g1.dfcfw.com
+# 网页禁止跳转App
+DOMAIN-SUFFIX,app-site-association.cdn-apple.com
+# 苹果系统升级
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,xp.apple.com
+# 欺诈性网站警告
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.googleapis-cn.com
+DOMAIN-SUFFIX,urlsec.qq.com
+# 小沃科技
+DOMAIN-SUFFIX,wostore.cn
+# 不知道
+DOMAIN,rmonitor.qq.com
+DOMAIN,r.release.qq.com
+# 天翼
+DOMAIN,collect.ux.21cn.com
+# 百度系列
+DOMAIN-KEYWORD,duxiaoman
+# 翻译
+DOMAIN-SUFFIX,google.cn
+DOMAIN,fanyi.baidu.com
+DOMAIN,fanyi-api.baidu.com
+DOMAIN,fanyi.youdao.com
+# 搜狗输入法
+DOMAIN-KEYWORD,sogou
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN-SUFFIX,get.sogou.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,account.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,macime.sogou.com
+USER-AGENT,SogouInput
+USER-AGENT,com.sogou.sogouinput.BaseKeyboard
+DOMAIN-KEYWORD,Sogou
+# 百度输入法
+#DOMAIN-KEYWORD,mime.baidu
+#DOMAIN-KEYWORD,imeres
+#DOMAIN-KEYWORD,srf.baidu
+#DOMAIN-KEYWORD,sofire.baidu
+#DOMAIN-KEYWORD,api.tuisong
+#DOMAIN-KEYWORD,nsclick.baidu
+#DOMAIN-KEYWORD,ppui-static-wap
+#DOMAIN-SUFFIX,olime.baidu.com
+#DOMAIN-SUFFIX,dr-ime.baidu.com
+#DOMAIN-SUFFIX,updateime.baidu.com
+#DOMAIN-SUFFIX,tips.ime.baidu.com
+#DOMAIN-SUFFIX,typing.bae.baidu.com
+#DOMAIN-SUFFIX,pcinput.baidu.com
+#DOMAIN-SUFFIX,ufosdk.baidu.com
+#DOMAIN-SUFFIX,srfsh.baidu.com
+#DOMAIN-SUFFIX,mbd.baidu.com
+#DOMAIN-SUFFIX,tsn.baidu.com
+# 掌阅
+DOMAIN-KEYWORD,log.ireader
+DOMAIN-KEYWORD,ibs.ireader
+DOMAIN-KEYWORD,sentry-app.ireader
+DOMAIN-KEYWORD,res.ireader
+DOMAIN-KEYWORD,cps.ireader
+DOMAIN-KEYWORD,sccollect.ireader
+DOMAIN-KEYWORD,ireaderm
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,corp3g.cn
+DOMAIN-SUFFIX,ireader.com
+DOMAIN-SUFFIX,ireader.com.cn
+DOMAIN-SUFFIX,ireader.live
+DOMAIN-SUFFIX,ireader.mobi
+DOMAIN-SUFFIX,ireaderm.com
+DOMAIN-SUFFIX,ireaderm.net
+DOMAIN-SUFFIX,iremaker.com
+DOMAIN-SUFFIX,mgcube.cn
+DOMAIN-SUFFIX,palmebook.com
+DOMAIN-SUFFIX,palmeread.cn
+DOMAIN-SUFFIX,palmeread.com
+DOMAIN-SUFFIX,palmestore.cn
+DOMAIN-SUFFIX,palmestore.com
+DOMAIN-SUFFIX,transmonkey.cn
+DOMAIN-SUFFIX,transmonkey.com
+DOMAIN-SUFFIX,transmonkey.net
+DOMAIN-SUFFIX,z3.cn
+DOMAIN-SUFFIX,zhangyue.com
+DOMAIN-SUFFIX,zhangyue.net
+DOMAIN-SUFFIX,zhangyue01.com
+DOMAIN-SUFFIX,zhangyue02.com
+DOMAIN-SUFFIX,zhangyue03.com
+DOMAIN-SUFFIX,zhi3.com.cn
+DOMAIN-SUFFIX,zhi3.net
+DOMAIN-SUFFIX,zuoshujiang.com
+# 谷歌广告
+DOMAIN-KEYWORD,googleads
+# 卡喵信用卡
+DOMAIN-SUFFIX,bitenn.com
+IP-CIDR,124.70.159.59/32,no-resolve
+IP-CIDR,114.116.237.206/32,no-resolve
+# 来自https://github.com/jdlingyu/ad-wars/blob/master/sha_ad_hosts
+DOMAIN-SUFFIX,pv.sohu.com
+DOMAIN-SUFFIX,gw.365you.com
+DOMAIN-SUFFIX,adsmind.gdtimg.com
+DOMAIN-SUFFIX,x.adnet.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,otheve.beacon.qq.com
+# 微博启动广告
+DOMAIN,bootpreload.uve.weibo.com
