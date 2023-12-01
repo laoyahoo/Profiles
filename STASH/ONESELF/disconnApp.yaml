@@ -1,0 +1,101 @@
+# 禁止联网的App域名于进程
+payload:
+  # 百度
+  - DOMAIN-KEYWORD,mime.baidu
+  - DOMAIN-KEYWORD,imeres
+  - DOMAIN-KEYWORD,srf.baidu
+  - PROCESS-NAME,BaiduIM
+  - PROCESS-NAME,baiduService
+  - PROCESS-NAME,UninstallPKG
+  # 腾讯柠檬App
+  - PROCESS-NAME,LemonMonitor
+  - PROCESS-NAME,Lemon
+  - DOMAIN-KEYWORD,lemon
+  - DOMAIN-KEYWORD,ten.sngapm
+  - DOMAIN-KEYWORD,tmfmazu.m
+  - DOMAIN-KEYWORD,masterconn
+  - PROCESS-NAME,LemonUpdate
+  - PROCESS-NAME,LemonDaemon
+  - PROCESS-NAME,LemonDaemonActivator
+  - PROCESS-NAME,LemonFileMove
+  - PROCESS-NAME,LemonLoginItemManager
+  - PROCESS-NAME,LemonPhotoClean
+  - PROCESS-NAME,LemonSpaceAnalyse
+  - PROCESS-NAME,LemonUninstaller
+  - PROCESS-NAME,AFNetworking
+  - PROCESS-NAME,FMDB
+  - PROCESS-NAME,Tencent Lemon
+  # 禁止搜狗输入法
+  - PROCESS-NAME,SogouInput
+  - PROCESS-NAME,SogouTaskManager
+  - PROCESS-NAME,SogouServices
+  - PROCESS-NAME,SogouXdelta
+  - PROCESS-NAME,SogouProcessInfo
+  - PROCESS-NAME,SogouHelper
+  - PROCESS-NAME,SGPicFaceTool
+  - PROCESS-NAME,SGEmojiPanelTool
+  - PROCESS-NAME,SGAssistPanel
+  - PROCESS-NAME,SGInputStatPanel
+  - PROCESS-NAME,SogouPreference
+  - DOMAIN-KEYWORD,sogou
+  # 小沃科技
+  - DOMAIN-SUFFIX,wostore.cn
+  # 压缩软件
+  - DOMAIN-SUFFIX,maczip.cn
+  - DOMAIN-SUFFIX,awehunt.com
+  - DOMAIN-KEYWORD,awehunt
+  - PROCESS-NAME,MacZip
+  # 播放器
+  - DOMAIN-KEYWORD,iina
+  # 禁止macOS系统升级
+  #  - DOMAIN-SUFFIX,mesu.apple.com
+  #  - DOMAIN-SUFFIX,gdmf.apple.com
+  #  - DOMAIN-SUFFIX,updates-http.cdn-apple.com
+  #  - DOMAIN-SUFFIX,xp.apple.com
+  #  - DOMAIN-SUFFIX,gdmf.apple.com
+  #  - DOMAIN-SUFFIX,swdist.apple.com
+  #  - DOMAIN-SUFFIX,swscan.apple.com
+  # 开发
+  #- PROCESS-NAME,Pycharm,REJECT
+  - DOMAIN-KEYWORD,pycharm
+  - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,trendmicro
+  - IP-CIDR,187.218.21.15/32
+  - IP-CIDR,74.125.204.199/32
+  - IP-CIDR,108.160.165.53/32
+  # 笔记
+  - DOMAIN-SUFFIX,yinxiang.com
+  # 谷歌追踪
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+  # sublimetext
+  - DOMAIN-KEYWORD,sublime
+  # 迅雷
+  - DOMAIN-SUFFIX,vip.xunlei.com
+  # 禁止截屏软件
+  - PROCESS-NAME,Xnip
+  - PROCESS-NAME,XnipHelper
+  - DOMAIN-KEYWORD,xnipapp
+  # 格式化复制软件
+  - DOMAIN-KEYWORD,fiplabcdn
+  - PROCESS-NAME,Paste Plain Text
+  # 其他
+  - DOMAIN,rmonitor.qq.com
+  - DOMAIN,r.release.qq.com
+  # 天翼
+  - DOMAIN,collect.ux.21cn.com
+  # 百度度小满
+  - DOMAIN-KEYWORD,duxiaoman
+  - DOMAIN-KEYWORD,dxmpay
+  # macos卸载软件
+  - PROCESS-NAME,AppCleaner
+  - PROCESS-NAME,achelper
+  - PROCESS-NAME,AppCleanerSmartDelete
+  # 监控软件
+  - PROCESS-NAME,RunCat
+  # 谷歌
+  - DOMAIN-SUFFIX,google.cn
+  # Tencent
+  - DOMAIN,safebrowsing.urlsec.qq.com
+  # 必应
+  - DOMAIN,cn.bing.com
