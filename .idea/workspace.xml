@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e38c0aa8-9ff7-4d47-9dfd-e3159fcf2e3e" name="Changes" comment="测试" />
+    <list default="true" id="e38c0aa8-9ff7-4d47-9dfd-e3159fcf2e3e" name="Changes" comment="新增stash的规则">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,15 @@
       <option name="presentableId" value="Default" />
       <updated>1701332621332</updated>
       <workItem from="1701332622420" duration="139000" />
+      <workItem from="1701351214183" duration="851000" />
+      <workItem from="1701354077531" duration="10000" />
+      <workItem from="1701389265219" duration="37000" />
+      <workItem from="1701390342427" duration="32000" />
+      <workItem from="1701390526906" duration="572000" />
+      <workItem from="1701391352541" duration="29000" />
+      <workItem from="1701392919269" duration="310000" />
+      <workItem from="1701400791839" duration="435000" />
+      <workItem from="1701406798575" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1701332710665</created>
@@ -46,7 +57,84 @@
       <option name="project" value="LOCAL" />
       <updated>1701332710665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="优化后；新规则">
+      <created>1701351323127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701351323127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="优化后；新规则">
+      <created>1701351998946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701351998946</updated>
+    </task>
+    <task id="LOCAL-00004" summary="优化后；新规则">
+      <created>1701352225488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701352225488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新规则">
+      <created>1701389289891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701389289891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="新增openai规则">
+      <created>1701390363373</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701390363374</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新增图标">
+      <created>1701390546357</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701390546357</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加说明">
+      <created>1701390758577</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701390758577</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增tw+voice">
+      <created>1701391370490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701391370490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="新增谷歌数据合并">
+      <created>1701392932576</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701392932576</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新增stash的规则">
+      <created>1701400907984</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701400907984</updated>
+    </task>
+    <task id="LOCAL-00012" summary="新增stash的规则">
+      <created>1701406805334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701406805334</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +153,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="优化后；新规则" />
+    <MESSAGE value="更新规则" />
+    <MESSAGE value="新增openai规则" />
+    <MESSAGE value="新增图标" />
+    <MESSAGE value="增加说明" />
+    <MESSAGE value="新增tw+voice" />
+    <MESSAGE value="新增谷歌数据合并" />
+    <MESSAGE value="新增stash的规则" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增stash的规则" />
   </component>
 </project>
