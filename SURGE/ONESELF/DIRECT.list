@@ -1,8 +1,5 @@
 #自己维护域名
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,ebscn.com
-DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,123ths.com
 DOMAIN-SUFFIX,tencent.com
@@ -11,12 +8,7 @@ DOMAIN-SUFFIX,dfcfs.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -24,8 +16,6 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meituan.com
@@ -42,7 +32,6 @@ DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,souhu.com
-DOMAIN-SUFFIX,t.tt
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,163.com
@@ -114,6 +103,8 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,tmall
+DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,china
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,tencent
