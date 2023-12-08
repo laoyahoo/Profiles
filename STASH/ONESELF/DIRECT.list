@@ -1,5 +1,4 @@
 .ebscn.com
-.10jqka.com.cn
 .qq.com
 .123ths.com
 .tencent.com
@@ -8,12 +7,7 @@
 .weibo.com
 .weibocdn.com
 .alibaba.com
-.alipay.com
 .aliyun.com
-.alipayobjects.com
-.taobao.com
-.tmall.com
-.tmall.hk
 .1688.com
 .bitwarden.com
 .dingtalk.com
@@ -21,8 +15,6 @@
 .hao123.com
 .ipip.net
 .iqiyi.com
-.360buy.com
-.360buyimg.com
 .jianshu.com
 .meitu.com
 .meituan.com
@@ -37,9 +29,7 @@
 .95516.com
 .unionpay.com
 .sandai.net
-.sina.com
 .souhu.com
-.t.tt
 .sspai.com
 .xiami.com
 .163.com
@@ -111,6 +101,8 @@
 .aliyun
 .alibaba
 .taobao
+.tmall
+.360buy
 .china
 .wechat
 .tencent
@@ -121,7 +113,6 @@
 .bilibili
 .douyin
 ..nstool.
-.time.windows
 .ntp.org
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,172.21.0.0/16,no-resolve
