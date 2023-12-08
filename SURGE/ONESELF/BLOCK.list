@@ -40,24 +40,6 @@ DOMAIN-SUFFIX,macime.sogou.com
 USER-AGENT,SogouInput
 USER-AGENT,com.sogou.sogouinput.BaseKeyboard
 DOMAIN-KEYWORD,Sogou
-# 百度输入法
-#DOMAIN-KEYWORD,mime.baidu
-#DOMAIN-KEYWORD,imeres
-#DOMAIN-KEYWORD,srf.baidu
-#DOMAIN-KEYWORD,sofire.baidu
-#DOMAIN-KEYWORD,api.tuisong
-#DOMAIN-KEYWORD,nsclick.baidu
-#DOMAIN-KEYWORD,ppui-static-wap
-#DOMAIN-SUFFIX,olime.baidu.com
-#DOMAIN-SUFFIX,dr-ime.baidu.com
-#DOMAIN-SUFFIX,updateime.baidu.com
-#DOMAIN-SUFFIX,tips.ime.baidu.com
-#DOMAIN-SUFFIX,typing.bae.baidu.com
-#DOMAIN-SUFFIX,pcinput.baidu.com
-#DOMAIN-SUFFIX,ufosdk.baidu.com
-#DOMAIN-SUFFIX,srfsh.baidu.com
-#DOMAIN-SUFFIX,mbd.baidu.com
-#DOMAIN-SUFFIX,tsn.baidu.com
 # 谷歌广告
 DOMAIN-KEYWORD,googleads
 # 卡喵信用卡
