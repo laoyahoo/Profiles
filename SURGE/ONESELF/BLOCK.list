@@ -105,6 +105,9 @@ DOMAIN-SUFFIX,gw.365you.com
 DOMAIN-SUFFIX,adsmind.gdtimg.com
 DOMAIN-SUFFIX,x.adnet.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
+# 有度阅读
+DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,tianmu.mobi
+DOMAIN-SUFFIX,biquapi.xyz
+# QQ
 DOMAIN-SUFFIX,otheve.beacon.qq.com
-# 微博启动广告
-DOMAIN,bootpreload.uve.weibo.com
