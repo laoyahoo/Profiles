@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,macime.sogou.com
 USER-AGENT,SogouInput
 USER-AGENT,com.sogou.sogouinput.BaseKeyboard
 DOMAIN-KEYWORD,Sogou
+DOMAIN-SUFFIX,otheve.beacon.qq.com
 # 谷歌广告
 DOMAIN-KEYWORD,googleads
 # 卡喵信用卡
@@ -56,5 +57,3 @@ DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,tianmu.mobi
 DOMAIN-SUFFIX,biquapi.xyz
-# QQ
-DOMAIN-SUFFIX,otheve.beacon.qq.com
