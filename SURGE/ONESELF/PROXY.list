@@ -40,10 +40,6 @@ DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,time.com
-# google
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,golang.org
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -121,25 +117,33 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-KEYWORD,reddit
 # 微软
-DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,onenote.
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,surface.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-KEYWORD,windows
+DOMAIN-KEYWORD,.xbox
 DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,bing.com
-DOMAIN-KEYWORD,hotmail
+DOMAIN-KEYWORD,hotmail.
 DOMAIN-KEYWORD,.live.
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,msauth
-DOMAIN-KEYWORD,office
-DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,office.
+DOMAIN-KEYWORD,onedrive.
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,skype
 DOMAIN-KEYWORD,windowsupdate
+USER-AGENT,Microsoft*
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
 # 亚马逊
 DOMAIN-KEYWORD,amazon
 # 维基
