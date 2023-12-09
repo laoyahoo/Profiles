@@ -9,7 +9,6 @@ DOMAIN,captive.apple.com
 DOMAIN-SUFFIX,id6.me
 # 广汽本田
 DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,jpush.cn
 DOMAIN-KEYWORD,sensorsdata.cn
 # 时间
 DOMAIN-KEYWORD,time.
