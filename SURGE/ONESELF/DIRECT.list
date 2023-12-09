@@ -5,10 +5,8 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,dfcfs.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,hao123.com
@@ -97,6 +95,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,.jd.com
+DOMAIN-KEYWORD,bitwarde.
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
