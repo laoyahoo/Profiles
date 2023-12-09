@@ -1,15 +1,12 @@
 .ebscn.com
 .qq.com
-.123ths.com
 .tencent.com
 .gtimg.com
 .dfcfs.com
 .weibo.com
 .weibocdn.com
-.alibaba.com
 .aliyun.com
 .1688.com
-.bitwarden.com
 .dingtalk.com
 .douban.com
 .hao123.com
@@ -94,8 +91,11 @@
 .autonavi.com
 .touzime.com
 .jddebug.com
+.ipify.org
+.xueqiu.com
 ..cn
 ..jd.com
+.bitwarden.
 .alicdn
 .alipay
 .aliyun
@@ -113,7 +113,6 @@
 .bilibili
 .douyin
 ..nstool.
-.ntp.org
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
