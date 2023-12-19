@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,18.cn
+DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,ebscn.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
@@ -70,7 +76,6 @@ DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,tcl.com
 DOMAIN-SUFFIX,tcljd.com
-DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,ixigua.com
