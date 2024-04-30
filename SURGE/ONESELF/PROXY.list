@@ -138,11 +138,6 @@ DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,skype
 DOMAIN-KEYWORD,windowsupdate
-USER-AGENT,Microsoft*
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
 # 亚马逊
 DOMAIN-KEYWORD,amazon
 # 维基
