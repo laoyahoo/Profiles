@@ -132,8 +132,8 @@ DOMAIN-KEYWORD,bing.com
 DOMAIN-KEYWORD,hotmail.
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,msauth
-DOMAIN-KEYWORD,office.
-DOMAIN-KEYWORD,onedrive.
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,skype
@@ -186,9 +186,9 @@ DOMAIN-KEYWORD,HongKong
 #
 DOMAIN-KEYWORD,quantumult
 #xshell
-DOMAIN-KEYWORD,.netsarang.
+DOMAIN-KEYWORD,.netsarang
 #api
-DOMAIN-KEYWORD,.bianyuan.
+DOMAIN-KEYWORD,.bianyuan
 #
 DOMAIN-SUFFIX,coolshell.cn
 #
