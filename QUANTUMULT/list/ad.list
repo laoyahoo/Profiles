@@ -23807,7 +23807,6 @@ HOST-SUFFIX,p3.pstatp.com,REJECT
 HOST-SUFFIX,bayescom.com,REJECT
 HOST-SUFFIX,track.tiara.kakao.com,REJECT
 HOST-SUFFIX,ad.duoduo.link,REJECT
-HOST-SUFFIX,byteimg.com, DIRECT,REJECT
 HOST-SUFFIX,i.snssdk.com,REJECT
 HOST-SUFFIX,i-lq.snssdk.com,REJECT
 HOST-SUFFIX,dig.bdurl.net,REJECT
