@@ -518,7 +518,6 @@
 .dai.shuzilm.cn
 .stream.shuzilm.cn
 .www.shuzilm.cn
-255.255.255.255	broadcasthost
 .XiaoQiang
 .geo2.adobe.com
 .www.2144.cn
@@ -8486,7 +8485,6 @@
 .www.937920.com
 .www.93996d.com
 .www.93996e.com
-.www.9522555.com
 .www.95599.cn
 .www.9565365.com
 .www.9579.com
@@ -14661,7 +14659,6 @@
 .tvpixel.com
 .c.tvpixel.com
 .tvsquared.com
-.collector-12255.tvsquared.com
 .collector-6651.tvsquared.com
 .collector-9306.us.tvsquared.com
 .collectoru.us.tvsquared.com
@@ -23819,8 +23816,6 @@
 .security-lq.snssdk.com
 .i.snssdk.com
 .v6-novelapp.ixigua.com
-.*novelapp.ixigua.com
-.*default.ixigua.com
 .msync-im1-vip6-std.easemob.com
 .apd-pcdnwxlogin.teg.tencent-cloud.net
 .api.iegadp.qq.com
@@ -26901,7 +26896,6 @@
 .js1517.0937jyg.com
 .js205.dupinpu.com
 .js2254.hfxcsl.cn
-.js2553.xjzyq.com
 .js257.0937jyg.com
 .js2672.xjzyq.com
 .js3768.zhudiaosz.com

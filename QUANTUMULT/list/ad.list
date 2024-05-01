@@ -518,7 +518,6 @@ HOST-SUFFIX,daa.shuzilm.cn,REJECT
 HOST-SUFFIX,dai.shuzilm.cn,REJECT
 HOST-SUFFIX,stream.shuzilm.cn,REJECT
 HOST-SUFFIX,www.shuzilm.cn,REJECT
-255HOST-SUFFIX,255.255.255	broadcasthost,REJECT
 HOST-SUFFIX,XiaoQiang,REJECT
 HOST-SUFFIX,geo2.adobe.com,REJECT
 HOST-SUFFIX,www.2144.cn,REJECT
@@ -8486,7 +8485,6 @@ HOST-SUFFIX,www.93599669.com,REJECT
 HOST-SUFFIX,www.937920.com,REJECT
 HOST-SUFFIX,www.93996d.com,REJECT
 HOST-SUFFIX,www.93996e.com,REJECT
-HOST-SUFFIX,www.9522555.com,REJECT
 HOST-SUFFIX,www.95599.cn,REJECT
 HOST-SUFFIX,www.9565365.com,REJECT
 HOST-SUFFIX,www.9579.com,REJECT
@@ -14661,7 +14659,6 @@ HOST-SUFFIX,px.tvadsync.com,REJECT
 HOST-SUFFIX,tvpixel.com,REJECT
 HOST-SUFFIX,c.tvpixel.com,REJECT
 HOST-SUFFIX,tvsquared.com,REJECT
-HOST-SUFFIX,collector-12255.tvsquared.com,REJECT
 HOST-SUFFIX,collector-6651.tvsquared.com,REJECT
 HOST-SUFFIX,collector-9306.us.tvsquared.com,REJECT
 HOST-SUFFIX,collectoru.us.tvsquared.com,REJECT
@@ -23819,8 +23816,6 @@ HOST-SUFFIX,tnc3-alisc1.snssdk.com,REJECT
 HOST-SUFFIX,security-lq.snssdk.com,REJECT
 HOST-SUFFIX,i.snssdk.com,REJECT
 HOST-SUFFIX,v6-novelapp.ixigua.com,REJECT
-HOST-SUFFIX,*novelapp.ixigua.com,REJECT
-HOST-SUFFIX,*default.ixigua.com,REJECT
 HOST-SUFFIX,msync-im1-vip6-std.easemob.com,REJECT
 HOST-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT
 HOST-SUFFIX,api.iegadp.qq.com,REJECT
@@ -26901,7 +26896,6 @@ HOST-SUFFIX,js1516.0937jyg.com,REJECT
 HOST-SUFFIX,js1517.0937jyg.com,REJECT
 HOST-SUFFIX,js205.dupinpu.com,REJECT
 HOST-SUFFIX,js2254.hfxcsl.cn,REJECT
-HOST-SUFFIX,js2553.xjzyq.com,REJECT
 HOST-SUFFIX,js257.0937jyg.com,REJECT
 HOST-SUFFIX,js2672.xjzyq.com,REJECT
 HOST-SUFFIX,js3768.zhudiaosz.com,REJECT
