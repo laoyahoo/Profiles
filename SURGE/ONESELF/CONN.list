@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,id6.me
 # 广汽本田
 DOMAIN-SUFFIX,mob.com
 DOMAIN-KEYWORD,sensorsdata.cn
+# 邮政
+DOMAIN-SUFFIX,pki.goog
