@@ -1,10 +1,10 @@
-.appsto.re // Apple URL Shortener
-.smoot.apple.com // Spotlight
-.amp-api.podcasts.apple.com // Podcasts
-.beta.music.apple.com // Apple Music Web
-.books.itunes.apple.com // iBooks Store download
-.lookup-api.apple.com // Look Up
-.radio.itunes.apple.com // Apple Music Radio
+.appsto.re
+.smoot.apple.com
+.amp-api.podcasts.apple.com
+.beta.music.apple.com
+.books.itunes.apple.com
+.lookup-api.apple.com
+.radio.itunes.apple.com
 .apps.apple.com
 .books.apple.com
 .itunes.apple.com
@@ -103,7 +103,7 @@
 .redditmedia.com
 .redditstatic.com
 .reddit
-.onenote.
+.onenote
 .github.blog
 .github.com
 .github.io
@@ -112,23 +112,18 @@
 .msn.com
 .msn.cn
 .windows
-..xbox
+.xbox
 .azure
 .bing.com
-.hotmail.
+.hotmail
 .microsoft
 .msauth
-.office.
-.onedrive.
+.office
+.onedrive
 .outlook
 .skydrive
 .skype
 .windowsupdate
-USER-AGENT,Microsoft*
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
 .amazon
 .wikipedia.org
 .mbalib.com
@@ -155,7 +150,7 @@ PROCESS-NAME,OneDriveUpdater
 .kingsoft
 .HongKong
 .quantumult
-..netsarang.
-..bianyuan.
+.netsarang
+.bianyuan
 .coolshell.cn
 .ierc20.com

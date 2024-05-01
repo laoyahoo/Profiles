@@ -518,6 +518,7 @@
 .dai.shuzilm.cn
 .stream.shuzilm.cn
 .www.shuzilm.cn
+255.255.255.255	broadcasthost
 .XiaoQiang
 .geo2.adobe.com
 .www.2144.cn
@@ -23809,6 +23810,7 @@
 .bayescom.com
 .track.tiara.kakao.com
 .ad.duoduo.link
+.byteimg.com, DIRECT
 .i.snssdk.com
 .i-lq.snssdk.com
 .dig.bdurl.net
@@ -23817,8 +23819,8 @@
 .security-lq.snssdk.com
 .i.snssdk.com
 .v6-novelapp.ixigua.com
-.novelapp.ixigua.com
-.default.ixigua.com
+.*novelapp.ixigua.com
+.*default.ixigua.com
 .msync-im1-vip6-std.easemob.com
 .apd-pcdnwxlogin.teg.tencent-cloud.net
 .api.iegadp.qq.com
@@ -23882,6 +23884,7 @@
 .keplerapi.jd.com
 .mapi.m.jd.com
 .dns.jd.com
+.o2o-ad-log-gateway.alibaba.com
 .apm.gotokeep.com
 .kad.gotokeep.com
 .rpt.hpplay.cn
