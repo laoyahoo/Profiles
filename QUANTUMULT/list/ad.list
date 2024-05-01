@@ -1995,7 +1995,6 @@ HOST-SUFFIX,hm.shuixyh.com,REJECT
 HOST-SUFFIX,hnnzwhyy.com,REJECT
 HOST-SUFFIX,hoisin.coocaatv.com,REJECT
 HOST-SUFFIX,html.yuntzs.com,REJECT
-HOST-SUFFIX,httpdns.c.cdnhwc2.com,REJECT
 HOST-SUFFIX,huishenghuiying.com,REJECT
 HOST-SUFFIX,hv.code.tanwanyx.com,REJECT
 HOST-SUFFIX,hxbt.haha5.cn,REJECT
@@ -4794,7 +4793,6 @@ HOST-SUFFIX,adsfs.oppomobile.com,REJECT
 HOST-SUFFIX,adx.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bdapi.ads.oppomobile.com,REJECT
 HOST-SUFFIX,data.ads.oppomobile.com,REJECT
-HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
 HOST-SUFFIX,sms.ads.oppomobile.com,REJECT
 HOST-SUFFIX,b1.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bjdata.ads.oppomobile.com,REJECT
@@ -23664,6 +23662,22 @@ HOST-SUFFIX,zhi3.net,REJECT
 HOST-SUFFIX,zuoshujiang.com,REJECT
 HOST-SUFFIX,fengkongcloud.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
+HOST-SUFFIX,dns.weixin.qq.com,REJECT
+HOST-SUFFIX,dns.weixin.qq.com.cn,REJECT
+HOST-SUFFIX,dns.weibo.cn,REJECT
+HOST-SUFFIX,dns.jd.com,REJECT
+HOST-SUFFIX,httpdns.bilivideo.com,REJECT
+HOST-SUFFIX,httpdns.baidubce.com,REJECT
+HOST-SUFFIX,httpsdns.baidu.com,REJECT
+HOST-SUFFIX,httpdns.alicdn.com,REJECT
+HOST-SUFFIX,httpdns-api.aliyuncs.com,REJECT
+HOST-SUFFIX,httpdns-sc.aliyuncs.com,REJECT
+HOST-SUFFIX,httpdns.c.cdnhwc2.com,REJECT
+HOST-SUFFIX,httpdns.n.netease.com,REJECT
+HOST-SUFFIX,httpdns.music.163.com,REJECT
+HOST-SUFFIX,music.httpdns.c.163.com,REJECT
+HOST-SUFFIX,lofter.httpdns.c.163.com,REJECT
+HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
 HOST-SUFFIX,-ad-sign.byteimg.com,REJECT
 HOST-SUFFIX,-tos.pstatp.com,REJECT
 HOST-SUFFIX,asiad.byteactivity,REJECT
@@ -23773,7 +23787,6 @@ HOST-SUFFIX,znsv.baidu.com,REJECT
 HOST-SUFFIX,baidustatic.com,REJECT
 HOST-SUFFIX,duclick.baidu.com,REJECT
 HOST-SUFFIX,afdconf.baidu.com,REJECT
-HOST-SUFFIX,httpdns.baidubce.com,REJECT
 HOST-SUFFIX,lc.map.baidu.com,REJECT
 HOST-SUFFIX,api.sobot.com,REJECT
 HOST-SUFFIX,cm.ad.bilibili.com,REJECT
@@ -23877,7 +23890,6 @@ HOST-SUFFIX,policy.jd.com,REJECT
 HOST-SUFFIX,bdsp.x.jd.com,REJECT
 HOST-SUFFIX,keplerapi.jd.com,REJECT
 HOST-SUFFIX,mapi.m.jd.com,REJECT
-HOST-SUFFIX,dns.jd.com,REJECT
 HOST-SUFFIX,o2o-ad-log-gateway.alibaba.com,REJECT
 HOST-SUFFIX,apm.gotokeep.com,REJECT
 HOST-SUFFIX,kad.gotokeep.com,REJECT
@@ -24172,7 +24184,6 @@ HOST-SUFFIX,ads.finance.yahoo.com,REJECT
 HOST-SUFFIX,ads.yahoo.de,REJECT
 HOST-SUFFIX,amdc.m.youku.com,REJECT
 HOST-SUFFIX,apiv4-iyes.youku.com,REJECT
-HOST-SUFFIX,httpdns.alicdn.com,REJECT
 HOST-SUFFIX,huichuan-mc.sm.cn,REJECT
 HOST-SUFFIX,m-vali.cp31.ott.cibntv.net,REJECT
 HOST-SUFFIX,mc.atm.youku.com,REJECT
