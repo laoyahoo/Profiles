@@ -4793,6 +4793,7 @@ HOST-SUFFIX,adsfs.oppomobile.com,REJECT
 HOST-SUFFIX,adx.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bdapi.ads.oppomobile.com,REJECT
 HOST-SUFFIX,data.ads.oppomobile.com,REJECT
+HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
 HOST-SUFFIX,sms.ads.oppomobile.com,REJECT
 HOST-SUFFIX,b1.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bjdata.ads.oppomobile.com,REJECT
@@ -13532,7 +13533,6 @@ HOST-SUFFIX,lives.l.qq.com,REJECT
 HOST-SUFFIX,p.l.qq.com,REJECT
 HOST-SUFFIX,analytics.map.qq.com,REJECT
 HOST-SUFFIX,msdk.qq.com,REJECT
-HOST-SUFFIX,ssl.msdk.qq.com,REJECT
 HOST-SUFFIX,img.ssl.msdk.qq.com,REJECT
 HOST-SUFFIX,omgmta.qq.com,REJECT
 HOST-SUFFIX,pingfore.qq.com,REJECT
@@ -23677,8 +23677,7 @@ HOST-SUFFIX,httpdns.n.netease.com,REJECT
 HOST-SUFFIX,httpdns.music.163.com,REJECT
 HOST-SUFFIX,music.httpdns.c.163.com,REJECT
 HOST-SUFFIX,lofter.httpdns.c.163.com,REJECT
-HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
-HOST-SUFFIX,-ad-sign.byteimg.com,REJECT
+HOST-SUFFIX,httpdns.push.oppomobile.com.-ad-sign.byteimg.com,REJECT
 HOST-SUFFIX,-tos.pstatp.com,REJECT
 HOST-SUFFIX,asiad.byteactivity,REJECT
 HOST-SUFFIX,video-cn.snssdk.com,REJECT
