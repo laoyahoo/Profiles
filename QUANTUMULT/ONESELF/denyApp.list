@@ -1,0 +1,59 @@
+# 禁止联网的App域名于进程
+# 百度
+DOMAIN-KEYWORD,mime.baidu,REJECT
+DOMAIN-KEYWORD,imeres,REJECT
+DOMAIN-KEYWORD,srf.baidu,REJECT
+# 腾讯柠檬App
+DOMAIN-KEYWORD,lemon,REJECT
+DOMAIN-KEYWORD,ten.sngapm,REJECT
+DOMAIN-KEYWORD,tmfmazu.m,REJECT
+DOMAIN-KEYWORD,masterconn,REJECT
+# 禁止搜狗输入法
+DOMAIN-KEYWORD,sogou,REJECT
+# 小沃科技
+DOMAIN-SUFFIX,wostore.cn,REJECT
+# 压缩软件
+DOMAIN-SUFFIX,maczip.cn,REJECT
+DOMAIN-SUFFIX,awehunt.com,REJECT
+DOMAIN-KEYWORD,awehunt,REJECT
+# 播放器
+DOMAIN-KEYWORD,iina,REJECT
+# 禁止macOS系统升级
+DOMAIN-SUFFIX,mesu.apple.com,REJECT
+DOMAIN-SUFFIX,gdmf.apple.com,REJECT
+DOMAIN-SUFFIX,updates-http.cdn-apple.com,REJECT
+DOMAIN-SUFFIX,xp.apple.com,REJECT
+DOMAIN-SUFFIX,gdmf.apple.com,REJECT
+DOMAIN-SUFFIX,swdist.apple.com,REJECT
+DOMAIN-SUFFIX,swscan.apple.com,REJECT
+# 开发
+DOMAIN-KEYWORD,pycharm,REJECT
+DOMAIN-KEYWORD,jetbrains,REJECT
+DOMAIN-KEYWORD,trendmicro,REJECT
+# 笔记
+DOMAIN-SUFFIX,yinxiang.com,REJECT
+# 谷歌追踪
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com,REJECT
+# sublimetext
+DOMAIN-KEYWORD,sublime,REJECT
+# 迅雷
+DOMAIN-SUFFIX,vip.xunlei.com,REJECT
+# 禁止截屏软件
+DOMAIN-KEYWORD,xnipapp,REJECT
+# 格式化复制软件
+DOMAIN-KEYWORD,fiplabcdn,REJECT
+# 其他
+DOMAIN,rmonitor.qq.com,REJECT
+DOMAIN,r.release.qq.com,REJECT
+# 天翼
+DOMAIN,collect.ux.21cn.com,REJECT
+# 百度度小满
+DOMAIN-KEYWORD,duxiaoman,REJECT
+DOMAIN-KEYWORD,dxmpay,REJECT
+# 谷歌
+DOMAIN-SUFFIX,google.cn,REJECT
+# Tencent
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+# 必应
+DOMAIN,cn.bing.com,REJECT
