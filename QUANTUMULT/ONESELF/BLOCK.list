@@ -25,6 +25,7 @@ HOST-SUFFIX,account.sogou.com,REJECT
 HOST-SUFFIX,pinyin.sogou.com,REJECT
 HOST-SUFFIX,ime.sogou.com,REJECT
 HOST-SUFFIX,macime.sogou.com,REJECT
+HOST-SUFFIX,sogou.com,REJECT
 HOST-SUFFIX,otheve.beacon.qq.com,REJECT
 HOST-SUFFIX,doubleclick-cn.net,REJECT
 HOST-SUFFIX,bitenn.com,REJECT
