@@ -197,6 +197,7 @@
       <workItem from="1715515592140" duration="529000" />
       <workItem from="1715688357158" duration="64000" />
       <workItem from="1715689357769" duration="49000" />
+      <workItem from="1715773470481" duration="94000" />
     </task>
     <task id="LOCAL-00040" summary="更新规则">
       <created>1706097262791</created>
@@ -541,7 +542,7 @@
       <option name="project" value="LOCAL" />
       <updated>1714218552896</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
