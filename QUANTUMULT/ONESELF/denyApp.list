@@ -57,3 +57,6 @@ DOMAIN-SUFFIX,google.cn,REJECT
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 # 必应
 DOMAIN,cn.bing.com,REJECT
+# 酷狗
+DOMAIN-SUFFIX,kugou.com,REJECT
+DOMAIN-SUFFIX,kgimg.com,REJECT
