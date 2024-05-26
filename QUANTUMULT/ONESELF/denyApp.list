@@ -60,3 +60,4 @@ DOMAIN,cn.bing.com,REJECT
 # 酷狗
 DOMAIN-SUFFIX,kugou.com,REJECT
 DOMAIN-SUFFIX,kgimg.com,REJECT
+DOMAIN-SUFFIX,kglink.cn,REJECT
