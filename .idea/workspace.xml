@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e38c0aa8-9ff7-4d47-9dfd-e3159fcf2e3e" name="Changes" comment="更新规则" />
+    <list default="true" id="e38c0aa8-9ff7-4d47-9dfd-e3159fcf2e3e" name="Changes" comment="更新规则">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/ChinaIPsBGP.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/ChinaIPsBGP.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/Country.mmdb" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/Country.mmdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/anti-ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/anti-ad.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/skip-proxy-lists.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/skip-proxy-lists.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/sr_reject_list.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/sr_reject_list.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/ChinaIPsBGP.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/ChinaIPsBGP.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/anti-ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/anti-ad.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/module/Country.mmdb" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/Country.mmdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/module/skip-proxy-lists.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/skip-proxy-lists.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/module/sr_reject_list.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/sr_reject_list.module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,6 +218,9 @@
       <workItem from="1716688981748" duration="95000" />
       <workItem from="1716689172003" duration="44000" />
       <workItem from="1717155265387" duration="211000" />
+      <workItem from="1717295268879" duration="26000" />
+      <workItem from="1718010617967" duration="19000" />
+      <workItem from="1718010692848" duration="19000" />
     </task>
     <task id="LOCAL-00040" summary="更新规则">
       <created>1706097262791</created>
@@ -550,7 +565,7 @@
       <option name="project" value="LOCAL" />
       <updated>1714218552896</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
