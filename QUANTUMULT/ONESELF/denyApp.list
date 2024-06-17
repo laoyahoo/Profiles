@@ -27,9 +27,9 @@ DOMAIN-SUFFIX,gdmf.apple.com,REJECT
 DOMAIN-SUFFIX,swdist.apple.com,REJECT
 DOMAIN-SUFFIX,swscan.apple.com,REJECT
 # 开发
-DOMAIN-KEYWORD,pycharm,REJECT
-DOMAIN-KEYWORD,jetbrains,REJECT
-DOMAIN-KEYWORD,trendmicro,REJECT
+#DOMAIN-KEYWORD,pycharm,REJECT
+#DOMAIN-KEYWORD,jetbrains,REJECT
+#DOMAIN-KEYWORD,trendmicro,REJECT
 # 笔记
 DOMAIN-SUFFIX,yinxiang.com,REJECT
 # 谷歌追踪
