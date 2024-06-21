@@ -23990,6 +23990,12 @@ HOST-SUFFIX,iad0ssl.pcauto.com.cn,REJECT
 HOST-SUFFIX,iad0ssl.pconline.com.cn,REJECT
 HOST-SUFFIX,imgad0.pcauto.com.cn,REJECT
 HOST-SUFFIX,ivy.pchouse.com.cn,REJECT
+HOST-SUFFIX,adcdn6.tencentmusic.com,REJECT
+HOST-SUFFIX,monitor.music.qq.com,REJECT
+HOST-SUFFIX,stat.y.qq.com,REJECT
+HOST-SUFFIX,tmead.y.qq.com,REJECT
+HOST-SUFFIX,tmeadbak.y.qq.com,REJECT
+HOST-SUFFIX,imtmp.net,REJECT
 HOST-SUFFIX,cdn-new-ad.wtzw.com,REJECT
 HOST-SUFFIX,a-remad.qm989.com,REJECT
 HOST-SUFFIX,collectionpv.che168.com,REJECT
