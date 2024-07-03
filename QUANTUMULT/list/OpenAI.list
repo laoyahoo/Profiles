@@ -1,4 +1,10 @@
 HOST,browser-intake-datadoghq.com,OUSTSIDE
+HOST,chat.openai.com.cdn.cloudflare.net,OUSTSIDE
+HOST,gemini.google.com,OUSTSIDE
+HOST,openai-api.arkoselabs.com,OUSTSIDE
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OUSTSIDE
+HOST,openaicomproductionae4b.blob.core.windows.net,OUSTSIDE
+HOST,production-openaicom-storage.azureedge.net,OUSTSIDE
 HOST,static.cloudflareinsights.com,OUSTSIDE
 HOST-SUFFIX,ai.com,OUSTSIDE
 HOST-SUFFIX,algolia.net,OUSTSIDE
@@ -17,6 +23,9 @@ HOST-SUFFIX,launchdarkly.com,OUSTSIDE
 HOST-SUFFIX,oaistatic.com,OUSTSIDE
 HOST-SUFFIX,oaiusercontent.com,OUSTSIDE
 HOST-SUFFIX,observeit.net,OUSTSIDE
+HOST-SUFFIX,openai.com,OUSTSIDE
+HOST-SUFFIX,openaiapi-site.azureedge.net,OUSTSIDE
+HOST-SUFFIX,openaicom.imgix.net,OUSTSIDE
 HOST-SUFFIX,segment.io,OUSTSIDE
 HOST-SUFFIX,sentry.io,OUSTSIDE
 HOST-SUFFIX,stripe.com,OUSTSIDE
