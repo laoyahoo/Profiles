@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38c0aa8-9ff7-4d47-9dfd-e3159fcf2e3e" name="Changes" comment="更新规则">
+      <change afterPath="$PROJECT_DIR$/SURGE/down/Advertising_Domain.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SURGE/down/ad_t.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SURGE/list/Advertising_Domain.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QUANTUMULT/list/ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/QUANTUMULT/list/ad.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STASH/list/Telegram.list" beforeDir="false" afterPath="$PROJECT_DIR$/STASH/list/Telegram.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/down/ChinaIPsBGP.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/ChinaIPsBGP.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/down/Country.mmdb" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/Country.mmdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/Telegram.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/Telegram.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/ad_tmp.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/ad_tmp.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/down/anti-ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/anti-ad.list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SURGE/down/skip-proxy-lists.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/skip-proxy-lists.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/down/fenliu.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/fenliu.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/down/sr_reject_list.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/down/sr_reject_list.module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/list/ChinaIPsBGP.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/ChinaIPsBGP.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/Telegram.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/Telegram.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/ad.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/ad_tmp.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/ad_tmp.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/list/anti-ad.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/anti-ad.list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SURGE/list/fenliu.list" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/list/fenliu.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/module/Country.mmdb" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/Country.mmdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SURGE/module/skip-proxy-lists.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/skip-proxy-lists.module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SURGE/module/sr_reject_list.module" beforeDir="false" afterPath="$PROJECT_DIR$/SURGE/module/sr_reject_list.module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +59,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2Yt6eExDU9LdoGcfw7CNU32c04f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -221,6 +235,27 @@
       <workItem from="1717295268879" duration="26000" />
       <workItem from="1718010617967" duration="19000" />
       <workItem from="1718010692848" duration="19000" />
+      <workItem from="1718010856495" duration="117000" />
+      <workItem from="1718011571961" duration="52000" />
+      <workItem from="1718011659144" duration="64000" />
+      <workItem from="1718011774402" duration="20000" />
+      <workItem from="1718629611879" duration="90000" />
+      <workItem from="1718629762581" duration="37000" />
+      <workItem from="1718629844725" duration="15000" />
+      <workItem from="1718971428330" duration="43000" />
+      <workItem from="1719231251572" duration="54000" />
+      <workItem from="1719924571518" duration="20000" />
+      <workItem from="1720009230472" duration="47000" />
+      <workItem from="1720229302390" duration="23000" />
+      <workItem from="1720229338934" duration="2000" />
+      <workItem from="1720443639268" duration="55000" />
+      <workItem from="1720528525447" duration="8000" />
+      <workItem from="1720932642461" duration="20000" />
+      <workItem from="1721131470141" duration="50000" />
+      <workItem from="1721220180289" duration="42000" />
+      <workItem from="1721653064611" duration="45000" />
+      <workItem from="1722654628738" duration="53000" />
+      <workItem from="1722654686976" duration="11000" />
     </task>
     <task id="LOCAL-00040" summary="更新规则">
       <created>1706097262791</created>
@@ -565,7 +600,7 @@
       <option name="project" value="LOCAL" />
       <updated>1714218552896</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,6 +618,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试" />
     <MESSAGE value="优化后；新规则" />
     <MESSAGE value="新增openai规则" />
