@@ -82,3 +82,5 @@ HOST-SUFFIX,music.httpdns.c.163.com,REJECT
 HOST-SUFFIX,lofter.httpdns.c.163.com,REJECT
 HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
 HOST-SUFFIX,pddpic.com,REJECT
+HOST-SUFFIX,jddebug.com,REJECT
+HOST-SUFFIX,bootpreload.uve.weibo.com,REJECT
