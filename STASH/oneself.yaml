@@ -802,5 +802,9 @@ rules:
   - "DOMAIN-SUFFIX,yun-hl.3g.qq.com,DIRECT"
   - "IP-ASN,132203,DIRECT"
 
+  # 学习
+  - "DOMAIN-SUFFIX,duolingo.cn,DIRECT"
+  - "DOMAIN-SUFFIX,bskt100.com,DIRECT"
+
   # 其他所有域名拒绝访问
   - "MATCH,REJECT"
