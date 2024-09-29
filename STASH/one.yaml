@@ -762,6 +762,10 @@ rules:
   - "DOMAIN-SUFFIX,qq163.com,REJECT"
   - "DOMAIN-SUFFIX,qq163.net,REJECT"
 
+  # github
+  - "DOMAIN-SUFFIX,jsdelivr.net,DIRECT"
+  - "DOMAIN-SUFFIX,github.com,DIRECT"
+  
   # 允许腾讯相关域名
   - "DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT"
   - "DOMAIN,btrace.qq.com,DIRECT"
