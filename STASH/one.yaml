@@ -1,0 +1,93 @@
+---
+mixed-port: 7890
+allow-lan: true
+bind-address: "*"
+mode: rule
+log-level: error
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  default-nameserver:
+  - 223.5.5.5
+  - 119.29.29.29
+  fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+  nameserver:
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
+  fallback:
+  - https://doh.dns.sb/dns-query
+  - tls://8.8.4.4:853
+  fallback-filter:
+    geoip: true
+    ipcidr:
+    - 240.0.0.0/4
+    - 0.0.0.0/32
+proxies:
+- name: 拒绝模式
+  type: vmess
+  server: u00s.difao.cu
+  port: 9000
+  uuid: a7899f3a-52c4-4c98-89b1-0280c4aa27103
+  alterId: 0
+  cipher: auto
+  udp: true
+- name: 直接模式
+  type: vmess
+  server: u00s.difao.cu
+  port: 9000
+  uuid: a78993a-52c4-4c98-89b1-0280ac4a27103
+  alterId: 0
+  cipher: auto
+  udp: true
+proxy-groups:
+- name: "拒绝"
+  type: select
+  proxies:
+  - "拒绝模式"
+- name: "直连"
+  type: select
+  proxies:
+  - "直接模式"
+rules:
+  - "DOMAIN,localhost,DIRECT"
+  - "DOMAIN,172.21.0.0/16,DIRECT"
+  - "DOMAIN,127.0.0.1,DIRECT"
+  - "DOMAIN,::1,DIRECT"
+
+  # 允许腾讯相关域名
+  - "DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT"
+  - "DOMAIN,btrace.qq.com,DIRECT"
+  - "DOMAIN,dldir1.qq.com,DIRECT"
+  - "DOMAIN,slife.xy-asia.com,DIRECT"
+  - "DOMAIN,soup.v.qq.com,DIRECT"
+  - "DOMAIN,vweixinf.tc.qq.com,DIRECT"
+  - "DOMAIN,weixin110.qq.com,DIRECT"
+  - "DOMAIN,wup.imtt.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,iot-tencent.com,DIRECT"
+  - "DOMAIN-SUFFIX,lbs.gtimg.com,DIRECT"
+  - "DOMAIN-SUFFIX,map.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,qlogo.cn,DIRECT"
+  - "DOMAIN-SUFFIX,qpic.cn,DIRECT"
+  - "DOMAIN-SUFFIX,servicewechat.com,DIRECT"
+  - "DOMAIN-SUFFIX,tenpay.com,DIRECT"
+  - "DOMAIN-SUFFIX,up-hl.3g.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,vweixinthumb.tc.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,wechat.com,DIRECT"
+  - "DOMAIN-SUFFIX,wechatlegal.net,DIRECT"
+  - "DOMAIN-SUFFIX,wechatos.net,DIRECT"
+  - "DOMAIN-SUFFIX,wechatpay.com,DIRECT"
+  - "DOMAIN-SUFFIX,weixin.com,DIRECT"
+  - "DOMAIN-SUFFIX,weixin.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,weixinbridge.com,DIRECT"
+  - "DOMAIN-SUFFIX,weixinsxy.com,DIRECT"
+  - "DOMAIN-SUFFIX,wx.gtimg.com,DIRECT"
+  - "DOMAIN-SUFFIX,wx.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,wxapp.tc.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,wxs.qq.com,DIRECT"
+  - "DOMAIN-SUFFIX,yun-hl.3g.qq.com,DIRECT"
+  - "IP-ASN,132203,DIRECT"
+
+  # 其他所有域名拒绝访问
+  - "MATCH,REJECT"
