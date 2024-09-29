@@ -763,6 +763,7 @@ rules:
   - "DOMAIN-SUFFIX,qq163.net,REJECT"
 
   # github
+  - "DOMAIN-SUFFIX,githubusercontent.com,DIRECT"
   - "DOMAIN-SUFFIX,jsdelivr.net,DIRECT"
   - "DOMAIN-SUFFIX,github.com,DIRECT"
   
