@@ -1,3 +1,4 @@
+# https://cdn.jsdelivr.net/gh/laoyahoo/Profiles@master/STASH/one.yaml
 mixed-port: 7890
 allow-lan: true
 bind-address: "*"
