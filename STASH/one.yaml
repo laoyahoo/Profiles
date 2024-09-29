@@ -53,6 +53,7 @@ proxy-groups:
 rules:
   - "DOMAIN,localhost,DIRECT"
   - "DOMAIN,172.21.0.0/16,DIRECT"
+  - "DOMAIN,192.168.0.0/16,DIRECT"
   - "DOMAIN,127.0.0.1,DIRECT"
   - "DOMAIN,::1,DIRECT"
 
