@@ -63,9 +63,6 @@ rules:
   - "DOMAIN-KEYWORD,github,DIRECT"
   - "DOMAIN-KEYWORD,jsdelivr,DIRECT"
   - "DOMAIN-SUFFIX,githubusercontent.com,DIRECT"
-
-  # 教育
-  - "DOMAIN-KEYWORD,edu.cn,DIRECT"
   
   # 允许腾讯相关域名
   - "DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT"
@@ -103,6 +100,7 @@ rules:
   # 学习
   - "DOMAIN-SUFFIX,duolingo.cn,DIRECT"
   - "DOMAIN-SUFFIX,bskt100.com,DIRECT"
+  - "DOMAIN-KEYWORD,edu.cn,DIRECT"
 
   # 其他所有域名拒绝访问
   - "MATCH,REJECT"
